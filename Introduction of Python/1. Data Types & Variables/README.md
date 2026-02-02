@@ -1,12 +1,13 @@
 # 📘 Introduction of Python
 
-This repository contains multiple Python files, each focusing on a specific core concept of the Python programming language.
+This folder contains multiple Python files, each focusing on a specific core concept of the Python programming language.
 
 ---
 
 ## 📄 Data Types and Variables
 
 This file covers:
+
 - Integer data type
 - Float data type
 - String data type
@@ -20,6 +21,7 @@ This file covers:
 ## 📄 Operators
 
 This file covers:
+
 - Arithmetic operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
 - Assignment operators (`=`, `+=`, `-=`, `*=`, `/=`)
 - Comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
@@ -33,6 +35,7 @@ This file covers:
 ## 📄 String Methods
 
 This file covers:
+
 - String length using `len()`
 - String indexing
 - String slicing (positive and negative)
@@ -54,6 +57,7 @@ This file covers:
 ## 📄 Math Module
 
 This file covers:
+
 - Importing the `math` module
 - Square root calculation using `math.sqrt()`
 - Rounding numbers using `math.ceil()` and `math.floor()`

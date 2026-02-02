@@ -1,6 +1,6 @@
 # 📘 Control Flow
 
-This repository contains Python examples that demonstrate **conditional statements and loops**, essential for controlling the flow of a program.
+This folder contains Python examples that demonstrate **conditional statements and loops**, essential for controlling the flow of a program.
 
 ---
 
